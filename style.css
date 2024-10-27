@@ -8,7 +8,7 @@ html {}
 	size: A4 portrait;} 
 
 body {
-	background-image: url("../PHOTO/background.jpg.jpg");
+	background-image: url("background.jpg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;}
